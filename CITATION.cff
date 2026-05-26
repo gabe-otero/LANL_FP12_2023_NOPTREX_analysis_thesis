@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Analysis code for PV search at LANSCE 2023 beam cycle"
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+authors:
+  - family-names: "Otero Munoz"
+    given-names: "Gabriel"
+    affiliation: "Indiana University"
+version: "1.0.0"
+date-released: "May 2026"
+repository-code: "https://github.com/gabe-otero/LANL_FP12_2023_NOPTREX_analysis_thesis"
+license: "MIT"
